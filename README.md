@@ -62,3 +62,7 @@
 网站地址：http://math.itdiffer.com
 
 提供了针对本书的扩展资料以及其他有关学习内容、部分章节选读等。
+
+## 勘误和修改
+
+网页地址：http://math.itdiffer.com/corrigendum.html
