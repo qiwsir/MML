@@ -66,3 +66,7 @@
 ## 勘误和修改
 
 网页地址：http://math.itdiffer.com/corrigendum.html
+
+## 视频课程
+
+视频课程与本书配套，有试听部分，请访问：https://ke.qq.com/course/5556479#term_id=105748678
