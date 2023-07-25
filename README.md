@@ -59,13 +59,13 @@
 
 ## 支持网站
 
-网站地址：http://math.itdiffer.com
+网站地址：http://lqlab.readthedocs.io/
 
 提供了针对本书的扩展资料以及其他有关学习内容、部分章节选读等。
 
 ## 勘误和修改
 
-网页地址：http://math.itdiffer.com/corrigendum.html
+网页地址：http://lqlab.readthedocs.io/en/latest/math4ML/corrigendum.html
 
 ## 视频课程
 
